@@ -11,3 +11,5 @@
 (ghost-parse-file "../closing.ghost")
 (ghost-parse-file "../menu.ghost")
 (load "../lai-scheme-functions.scm")
+
+(ghost-run)
